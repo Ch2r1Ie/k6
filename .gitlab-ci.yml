@@ -1,0 +1,4 @@
+include:
+  - project: cicd/pipeline/membership/membership-k6-pipeline
+    ref: main
+    file: 'pipeline.yaml' 
