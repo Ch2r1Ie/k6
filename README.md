@@ -1,4 +1,4 @@
-# membership-k6
+# k6
 
 
 
