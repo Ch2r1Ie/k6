@@ -1,0 +1,4 @@
+include:
+  - project: cicd/pipeline/
+    ref: main
+    file: "pipeline.yaml"
